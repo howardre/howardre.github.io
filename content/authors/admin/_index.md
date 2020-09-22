@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Ocean Ecology & Biogeochemistry
+role: Graduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD (in progress) in Ocean Ecology and Biogeochemistry
+  - course: Ph.D. (in progress) in Ocean Ecology and Biogeochemistry
     institution: Oregon State University
     year: 2025
-  - course: MSc in Marine Resource Management
+  - course: M.S. in Marine Resource Management
     institution: Oregon State University
     year: 2020
-  - course: BSc in Aquatic Biology
+  - course: B.S. in Aquatic Biology
     institution: University of California, Santa Barbara
     year: 2015
 
@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/howardre
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rahoward3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to 'static/files/CV.pdf' and uncomment the lines below.
 # - icon: cv
