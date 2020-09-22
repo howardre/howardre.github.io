@@ -55,10 +55,10 @@ social:
   icon_pack: fab
   link: https://github.com/howardre
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/CV.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/RHoward_CV.pdf
+# To enable, copy your resume/CV to 'static/files/CV.pdf' and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Rebecca Howard is a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the Fisheries Oceanography Lab.
+I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the Fisheries Oceanography Lab. I obtained my master's in Marine Resource Management at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My research focuses on the U.S. West Coast groundfishes and their interactions with the marine environment as well as their associated commercial fishery. Some of my research interests include using statistical modeling approaches to understand how groundfish populations have responded to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.
