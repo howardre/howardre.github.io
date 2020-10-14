@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   location = "Santa Barbara, California"
   date_start = "2014-07-01"
   date_end = "2015-11-30"
-  description = """"""
+  description = """Tested the swimming duration of Watersipora subtorquata to determine potential to spread as invasive species in the Santa Barbara Channel. Participated in SCUBA settlement plate surveys for presence of recently settled W. subtorquata. Conducted SCUBA surveys for eelgrass presence."""
   
 [[experience]]
   title = "Undergraduate Research Assistant"
