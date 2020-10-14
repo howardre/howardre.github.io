@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2015-07-01"
   date_end = "2017-11-30"
-  description = """Collected biological, safety, and effort data aboard commercial bottom trawlers in the Bering Sea. Biological data included maturity scans, otoliths,   and salmon genetic samples. Worked with observers, NMFS scientists, fishermen, and processing plants."""
+  description = """Collected biological, safety, and effort data aboard commercial bottom trawlers in the Bering Sea. Biological data included maturity scans, otoliths, and salmon genetic samples. Worked with observers, NMFS scientists, fishermen, and processing plants."""
   
 [[experience]]
   title = "AmeriCorps Volunteer"
@@ -57,6 +57,33 @@ date_format = "Jan 2006"
   location = "Santa Cruz, California"
   date_start = "2015-07-01"
   date_end = "2017-11-30"
-  description = """Collected data for population assessment of endangered Central California Coho salmon and threatened steelhead trout by stream surveys, juvenile       trapping, and tagging. Created maps using ArcGIS for conference poster and future publications. Archived historical biological samples. Taught watershed curriculum     to 3rd grade students and put on restoration event at a state park."""
+  description = """Collected data for population assessment of endangered Central California Coho salmon and threatened steelhead trout by stream surveys, juvenile trapping, and tagging. Created maps using ArcGIS for conference poster and future publications. Archived historical biological samples. Taught watershed curriculum to 3rd grade students and put on restoration event at a state park."""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Marine Science Institute, University of California Santa Barbara"
+  company_url = ""
+  location = "Santa Barbara, California"
+  date_start = "2014-07-01"
+  date_end = "2015-11-30"
+  description = """"""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Earth Research Institute, University of California Santa Barbara (CEIN)"
+  company_url = ""
+  location = "Santa Barbara, California"
+  date_start = "2014-06-01"
+  date_end = "2014-10-30"
+  description = """"""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Ecology, Evolution, and Marine Biology Department, University of California Santa Barbara"
+  company_url = ""
+  location = "Santa Barbara, California"
+  date_start = "2013-07-01"
+  date_end = "2014-11-30"
+  description = """."""
 
 +++
