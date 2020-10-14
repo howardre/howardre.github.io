@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. (in progress) in Ocean Ecology and Biogeochemistry
+  - course: Ph.D. in Ocean Ecology and Biogeochemistry
     institution: Oregon State University
-    year: 
+    year: (in progress)
   - course: M.S. in Marine Resource Management
     institution: Oregon State University
     year: 2020
