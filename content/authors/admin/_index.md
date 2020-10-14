@@ -59,9 +59,9 @@ social:
   link: https://linkedin.com/in/rahoward3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to 'static/files/CV.pdf' and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: static/files/cv.PDF
+- icon: cv
+  icon_pack: ai
+  link: static/files/cv.PDF
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
