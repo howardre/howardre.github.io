@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD (in progress) in Ocean Ecology and Biogeochemistry
+  - course: Ph.D. (in progress) in Ocean Ecology and Biogeochemistry
     institution: Oregon State University
     year: 
-  - course: MSc in Marine Resource Management
+  - course: M.S. in Marine Resource Management
     institution: Oregon State University
     year: 2020
-  - course: BSc in Aquatic Biology
+  - course: B.S. in Aquatic Biology
     institution: University of California, Santa Barbara
     year: 2015
 
@@ -58,7 +58,10 @@ social:
 # To enable, copy your resume/CV to 'static/files/CV.pdf' and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: /files/cv.pdf
+   link: static/files/cv.pdf
+ - icon: linkedin
+   icon_pack: ai
+   link: https://www.linkedin.com/in/rahoward3/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-Rebecca Howard is a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the Fisheries Oceanography Lab.
+I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the Fisheries Oceanography Lab. I obtained my master's in Marine Resource Management at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My research focuses on the U.S. West Coast groundfishes and their interactions with the marine environment as well as their associated commercial fishery. Some of my research interests include using statistical modeling approaches to understand how groundfish populations have responded to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.
