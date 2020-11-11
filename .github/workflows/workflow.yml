@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.74.3
         TARGET_REPO: howardre/howardre.github.io
         TOKEN: ${{ secrets.GIT_DEPLOY }}
-        CNAME: howardre.github.io
+        CNAME: https://rebecca-howard.netlify.app/
