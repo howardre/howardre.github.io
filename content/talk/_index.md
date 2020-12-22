@@ -1,5 +1,5 @@
 ---
-title: Presentations & Posters
+title: "Presentations & Posters"
 
 # View.
 #   1 = List
