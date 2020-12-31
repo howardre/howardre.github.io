@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rebecca A. Howard
+title: Rebecca A Howard
 
 # Username (this should match the folder name)
 authors:
@@ -28,8 +28,8 @@ interests:
 education:
   courses:
   - course: Ph.D. in Ocean Ecology and Biogeochemistry
-    institution: Oregon State University
-    year: (in progress)
+    institution: Oregon State University 
+    year: 2025 Expected
   - course: M.S. in Marine Resource Management
     institution: Oregon State University
     year: 2020
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the Fisheries Oceanography Lab. I received my master's in Marine Resource Management at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My research focuses on the U.S. West Coast groundfishes and their interactions with the marine environment as well as their associated commercial fishery. Some of my research interests include using statistical modeling approaches to understand how groundfish populations have responded to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.
+I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the [Fisheries Oceanography Lab](https://fisheriesoceanographylab.ceoas.oregonstate.edu/). I received my master's in [Marine Resource Management](https://ceoas.oregonstate.edu/mrm) at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My current research focuses on the U.S. West Coast groundfishes and their interactions with the marine environment as well as their associated commercial fishery. Some of my research interests include using statistical modeling approaches to understand how groundfish populations have responded to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.
