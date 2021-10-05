@@ -15,8 +15,8 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Repository [coming soon]
-  url: 
+  name: Repository
+  url: https://github.com/howardre/Bering_LarvalForecast
 url_code: ""
 url_pdf: ""
 url_slides: ""
