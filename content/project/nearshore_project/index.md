@@ -18,7 +18,7 @@ links:
   name: Repository
   url: https://github.com/howardre/ORnearshore_groundfish
 - icon: file-alt
-  icon_pack:far
+  icon_pack: far
   name: Publication
   url: https://doi.org/10.1111/fog.12553
 url_code: ""
