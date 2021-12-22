@@ -35,7 +35,11 @@ featured: false
 
 # links:
 # - name: ""
+<<<<<<< HEAD
    url: "https://doi/10.1111/fog.12553"
+=======
+#   url: "https://doi/10.1111/fog.12553"
+>>>>>>> ac7732518dd143cb4faf7c0685917f6bd2439b8e
 url_pdf: ''
 url_code: ''
 url_dataset: ''
