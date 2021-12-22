@@ -35,18 +35,14 @@ featured: false
 
 # links:
 # - name: ""
-<<<<<<< HEAD
-   url: "https://doi/10.1111/fog.12553"
-=======
-#   url: "https://doi/10.1111/fog.12553"
->>>>>>> ac7732518dd143cb4faf7c0685917f6bd2439b8e
+#   url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://doi/10.1111/fog.12553
 url_video: ''
 
 # Featured image
