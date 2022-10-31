@@ -1,13 +1,15 @@
 ---
-title: "An example journal article"
+title: "The effects of climate, oceanography, and habitat on the distribution and abundance of northern California Current continental shelf groundfishes"
 authors:
 - admin
-- Robert Ford
+- Lorenzo Ciannelli
+- W. Waldo Wakefield
+- Melanie R. Fewings
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2021-06-23T00:00:00Z"
+doi: "https://doi/10.1111/fog.12553"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
