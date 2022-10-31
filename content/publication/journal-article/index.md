@@ -6,9 +6,9 @@ authors:
 - W. Waldo Wakefield
 - Melanie R. Fewings
 author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2021-06-23T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
