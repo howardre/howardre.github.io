@@ -18,12 +18,12 @@ organizations:
   url: "https://ceoas.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fisheries management, climate-biology relationships, and spatiotemporal population dynamics.
+bio: My research interests include fisheries management, climate-biology relationships, and species distribution modeling.
 
 interests:
 - Fisheries Management
 - Climate-biology relationships
-- Spatiotemporal population dynamics
+- Species distribution modeling
 
 education:
   courses:
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the [Fisheries Oceanography Lab](https://fisheriesoceanographylab.ceoas.oregonstate.edu/). I received my master's in [Marine Resource Management](https://ceoas.oregonstate.edu/mrm) at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My current research focuses on forecasting the spawning distributions of larval groundfishes in the Bering Sea and Gulf of Alaska using the Bering 10K ROMS-NPZ. Some of my research interests include using statistical modeling approaches to understand how groundfish populations respond to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.
+I am a Ph.D. student at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences in the [Fisheries Oceanography Lab](https://fisheriesoceanographylab.ceoas.oregonstate.edu/). I received my master's in [Marine Resource Management](https://ceoas.oregonstate.edu/mrm) at OSU in September 2020 and I am continuing on with my research as a PhD student in Ocean Ecology and Biogeochemistry. My current research focuses on forecasting the spawning distributions of groundfishes in the Bering Sea using the Bering 10K ROMS-NPZ, developing species distribution models for different life stages of snow crab (*Chionocetes opilio*), and evaluating the use of size-structured models for projecting the distributions of California Current fishes. Some of my research interests include using statistical modeling approaches to understand how groundfish populations respond to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study population dynamics, and the connections between science and management.

@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Corvallis, Oregon"
   date_start = "2020-10-01"
   date_end = ""
-  description = """Assessing how past and projected climate variability impacts distribution and 
-  timing of groundfish spawning in the Bering Sea using the Bering10k ROMS model"""
+  description = """Hindcasting and forecasting eastern Bering Sea groundfish spawning distributions under future oceanographic conditions using the Bering 10K ROMS-NPZ. Used statistical modeling to hindcast distributions that then informed models used to forecast distributions during different emissions scenarios."""
 
 [[experience]]
   title = "Graduate Research Assistant (Oregon Sea Grant)"
@@ -37,8 +36,7 @@ date_format = "Jan 2006"
   description = """Used statistical models to investigate the effects of oceanography and 
   climate on groundfish long-term distribution and abundance in the northern California Current. 
   Studied the overlap of fishery-independent (NMFS survey) and -dependent (logbook and landings) 
-  data sources on the Oregon continental shelf and their potential utility for assessment of nearshore flatfishes. 
-  Two manuscripts are in preparation. Analyses completed using R."""
+  data sources on the Oregon continental shelf and their potential utility for assessment of nearshore flatfishes. Analyses completed using R."""
 #  Responsibilities include:
   
 #  * Analysing
