@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "The effects of climate, oceanography, and habitat on the distribution and abundance of northern California Current continental shelf groundfishes"
 authors:
 - admin
 - Lorenzo Ciannelli
@@ -8,7 +8,7 @@ authors:
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: 
+date: "2021-06-23T00:00:00Z"
 doi: "https://doi/10.1111/fog.12553"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publication_short: ""
 abstract: The California Current Ecosystem has experienced variable climate regimes, hypoxia, and marine heatwave events that have the potential to impact groundfishes and their associated fisheries. Using bottom trawl survey data collected by NOAA Fisheries, we assessed changes over the last four decades in northern California Current continental shelf (≤200 m) groundfish assemblage composition, species' presence, and relationships to environmental and habitat variables. We focus on the currently understudied continental shelf area, due to its ecological and economic importance, especially after the recent opening of historically important areas to trawling. We found a temporally consistent separation in groundfish assemblages between depth zones based on NMS analysis using species found in over 1% of samples, with shallow, mid-, and deep shelf groupings. Grain size, species richness, and diversity were associated with assemblage composition. Then, focusing on petrale sole, rex sole, lingcod, arrowtooth flounder, sablefish, English sole, Pacific sanddab, and Dover sole, we examined what factors impact groundfish presence and abundance on the shelf. Bottom temperature, sediment characteristics, and depth were correlated with abundance for all species. These results corroborate previous work indicating recent reductions in presence of hypoxia-intolerant species. Shallow-water groundfishes known to tolerate warmer water and low dissolved oxygen concentrations exhibit reductions offshore, possibly a result of low recruitment. There have been significant spatiotemporal changes in the shelf groundfish populations over the past several decades, and while assemblage composition over most of the shelf remains consistent, single species distributional shifts may impact access to target species in newly reopened areas.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
 tags:
 - Source Themes
@@ -67,12 +67,12 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
