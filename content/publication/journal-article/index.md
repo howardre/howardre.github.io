@@ -9,10 +9,10 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-06-23T00:00:00Z"
-doi: ""
+doi: "https://doi/10.1111/fog.12553"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Fisheries Oceanography, 30*(6)"
+# publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The California Current Ecosystem has experienced variable climate regimes, hypoxia, and marine heatwave events that have the potential to impact groundfishes and their associated fisheries. Using bottom trawl survey data collected by NOAA Fisheries, we assessed changes over the last four decades in northern California Current continental shelf (≤200 m) groundfish assemblage composition, species' presence, and relationships to environmental and habitat variables. We focus on the currently understudied continental shelf area, due to its ecological and economic importance, especially after the recent opening of historically important areas to trawling. We found a temporally consistent separation in groundfish assemblages between depth zones based on NMS analysis using species found in over 1% of samples, with shallow, mid-, and deep shelf groupings. Grain size, species richness, and diversity were associated with assemblage composition. Then, focusing on petrale sole, rex sole, lingcod, arrowtooth flounder, sablefish, English sole, Pacific sanddab, and Dover sole, we examined what factors impact groundfish presence and abundance on the shelf. Bottom temperature, sediment characteristics, and depth were correlated with abundance for all species. These results corroborate previous work indicating recent reductions in presence of hypoxia-intolerant species. Shallow-water groundfishes known to tolerate warmer water and low dissolved oxygen concentrations exhibit reductions offshore, possibly a result of low recruitment. There have been significant spatiotemporal changes in the shelf groundfish populations over the past several decades, and while assemblage composition over most of the shelf remains consistent, single species distributional shifts may impact access to target species in newly reopened areas.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary:
 
 tags:
 - Source Themes
