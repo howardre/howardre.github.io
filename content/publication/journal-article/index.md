@@ -5,9 +5,9 @@ authors:
 - Lorenzo Ciannelli
 - W. Waldo Wakefield
 - Melanie R. Fewings
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2021-06-23T00:00:00Z"
 doi: ""
 
