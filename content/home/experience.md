@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Research Assistant (Cooperative Institute for Climate, Ocean, and Ecosystem Studies)"
   company = "Oregon State University"
-  company_url = "https://https://cicoes.uw.edu/"
+  company_url = "https://cicoes.uw.edu/"
   location = "Corvallis, Oregon"
   date_start = "2022-07-01"
   date_end = ""
-  description = """Developing updated species distribution models for snow crab (Chionoecetes opilio) in order to provide short term forecasts. Using machine learning methods to predict distributions of different sexes and sizes."""
+  description = """Developing updated species distribution models for snow crab (*Chionoecetes opilio*) in order to provide short term forecasts. Using machine learning methods to predict distributions of different sexes and sizes."""
 
 [[experience]]
   title = "Graduate Research Assistant (National Science Foundation)"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Corvallis, Oregon"
   date_start = "2021-10-01"
   date_end = ""
-  description = """Using statistical modeling to project future distributions of early life stages of Gulf of Alaska groundfishes, as well as evaluate trade-offs between spatial and temporal constraints. Developing life cycle species distribution models for California Current groundfishes."""
+  description = """Using statistical modeling to project future distributions of multiple life stages of California Current fish species. Developing size-aggregated and size-structured species distribution models to evaluate trade-offs in different modeling approaches."""
 
 [[experience]]
   title = "Graduate Research Assistant (North Pacific Research Board)"
