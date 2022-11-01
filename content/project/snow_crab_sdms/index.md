@@ -3,7 +3,7 @@ title: Bering Sea Snow Crab SDMs
 summary: I'm developing species distribution models for snow crab life stages.
 #tags:
 #- Deep Learning
-date: "2018-10-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
