@@ -17,19 +17,38 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Graduate Research Assistant (Cooperative Institute for Climate, Ocean, and Ecosystem Studies)"
+  company = "Oregon State University"
+  company_url = "https://https://cicoes.uw.edu/"
+  location = "Corvallis, Oregon"
+  date_start = "2022-07-01"
+  date_end = ""
+  description = """Developing updated species distribution models for snow crab (Chionoecetes opilio) in order to provide short term forecasts. Using machine learning methods to predict distributions of different sexes and sizes."""
+
+[[experience]]
+  title = "Graduate Research Assistant (National Science Foundation)"
+  company = "Oregon State University"
+  company_url = "https://nsf.gov/"
+  location = "Corvallis, Oregon"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """Using statistical modeling to project future distributions of early life stages of Gulf of Alaska groundfishes, as well as evaluate trade-offs between spatial and temporal constraints. Developing life cycle species distribution models for California Current groundfishes."""
+
 [[experience]]
   title = "Graduate Research Assistant (North Pacific Research Board)"
   company = "Oregon State University"
-  company_url = "https://ceoas.oregonstate.edu/"
+  company_url = "https://nprb.org/"
   location = "Corvallis, Oregon"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """Hindcasting and forecasting eastern Bering Sea groundfish spawning distributions under future oceanographic conditions using the Bering 10K ROMS-NPZ. Used statistical modeling to hindcast distributions that then informed models used to forecast distributions during different emissions scenarios."""
 
 [[experience]]
   title = "Graduate Research Assistant (Oregon Sea Grant)"
   company = "Oregon State University"
-  company_url = "https://ceoas.oregonstate.edu/"
+  company_url = "https://seagrant.oregonstate.edu/"
   location = "Corvallis, Oregon"
   date_start = "2018-10-01"
   date_end = "2020-09-30"
