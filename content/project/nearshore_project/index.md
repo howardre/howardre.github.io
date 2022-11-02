@@ -9,8 +9,8 @@ date: "2018-10-01T00:00:00Z"
 external_link: ""
 
 image:
- # caption: Photo by rawpixel on Unsplash
- # focal_point: Smart
+ # caption: 
+ # focal_point: 
 
 links:
 - icon: github
@@ -21,6 +21,10 @@ links:
   icon_pack: far
   name: Publication
   url: https://doi.org/10.1111/fog.12553
+- icon: fa-solid fa-book
+  icon_pack: fas
+  name: Thesis
+  url: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dz010x34w
 url_code: ""
 url_pdf: ""
 url_slides: ""
