@@ -40,13 +40,13 @@ subtitle = ""
   
 [[feature]]
   icon = "fa-regular fa-chart-scatter-bubble"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Data Visualization"
   description = ""  
 
 [[feature]]
-  icon = "fa-duotone fa-sailboat"
-  icon_pack = "fab"
+  icon = "fa-solid fa-ship"
+  icon_pack = "fas"
   name = "At-Sea Data Collection"
   description = ""  
 
