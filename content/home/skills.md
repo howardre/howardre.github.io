@@ -21,13 +21,13 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-bar"
+  icon = "fa-duotone fa-chart-candlestick"
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
   
 [[feature]]
-  icon = "ga-regular fa-gears"
+  icon = "fa-duotone fa-gears"
   icon_pack = "fas"
   name = "Machine Learning"
   description = ""
@@ -39,9 +39,15 @@ subtitle = ""
   description = "" 
   
 [[feature]]
-  icon = "markdown"
+  icon = "fa-regular fa-chart-scatter-bubble"
   icon_pack = "fab"
-  name = "Markdown"
+  name = "Data Visualization"
+  description = ""  
+
+[[feature]]
+  icon = "fa-duotone fa-sailboat"
+  icon_pack = "fab"
+  name = "At-Sea Data Collection"
   description = ""  
 
 # Uncomment to use emoji icons.
