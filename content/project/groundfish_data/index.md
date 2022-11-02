@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/howardre/ORnearshore_groundfish
+- icon: fa-solid fa-book
+  icon_pack: fas
+  name: Thesis
+  url: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dz010x34w
 url_code: ""
 url_pdf: ""
 url_slides: ""
