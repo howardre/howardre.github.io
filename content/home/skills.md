@@ -12,7 +12,7 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 
 [[feature]]
   icon = "r-project"
@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "globe-americas"
+  icon = "ga-regular fa-gears"
   icon_pack = "fas"
-  name = "GIS"
+  name = "Machine Learning"
   description = ""
   
 [[feature]]
