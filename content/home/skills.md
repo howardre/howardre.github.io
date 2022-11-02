@@ -21,7 +21,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "fa-duotone fa-chart-candlestick"
+  icon = "fa-solid fa-chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
@@ -39,7 +39,7 @@ subtitle = ""
   description = "" 
   
 [[feature]]
-  icon = "fa-regular fa-chart-scatter-bubble"
+  icon = "fa-solid fa-square-poll-vertical"
   icon_pack = "fas"
   name = "Data Visualization"
   description = ""  
