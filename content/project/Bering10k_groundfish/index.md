@@ -1,6 +1,6 @@
 ---
 title: Forecasting Bering Sea Groundfish Distributions
-summary: We are using the Bering10K ROMS model to forecast groundfish distributions in the Bering Sea
+summary: We are using the Bering10K ROMS model to forecast groundfish distributions in the Bering Sea.
 #tags:
 #- Deep Learning
 date: "2020-10-01T00:00:00Z"
