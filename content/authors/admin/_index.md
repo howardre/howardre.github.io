@@ -24,6 +24,7 @@ interests:
 - Fisheries Management
 - Climate-biology relationships
 - Species distribution modeling
+- Forecasting
 
 education:
   courses:
