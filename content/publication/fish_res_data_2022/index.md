@@ -8,7 +8,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-06-23T00:00:00Z"
+date: "2022-11-14T00:00:00Z"
 doi: "https://doi.org/10.1016/j.fishres.2022.106553"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1016/j.fishres.2022.106553"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Fisheries Research, In Press"
+publication: "*Fisheries Research*, In Press"
 # publication_short: ""
 
 abstract: We investigate whether fishery-dependent time series can be used to fill in spatial and temporal data gaps where scientific, fishery-independent data are not available. Limitations in sampling coverage combined with a historical focus on continental slope-dwelling groundfish resulted in a gap in understanding Oregon’s nearshore groundfish fishery. Although fisheries-independent surveys have been conducted across most of the fishery’s depth range, the data are limited by years and seasons surveyed, as well as the absence of data for areas shallower than 55 m water depth. Fishery-dependent data are available for those shallow waters and for a broader temporal range. However, these data are self-reported and the coverage was determined by where fishers choose to fish. To investigate the potential for future combined uses for these data sources, we analyzed spatial and temporal changes in catch rates, as well as gaps in fishery (logbook) and scientific (NOAA survey) data, for six flatfishes. We found that more heavily targeted species that live in deeper water, like Dover sole and petrale sole, had more spatial scientific sampling coverage compared to less frequently targeted species that live in shallow water, such as starry flounder and sand sole. Overlap between datasets was variable in space and time but consistently higher near large ports. We identified the winter season, and the pre-2003 time-period as having the highest potential to benefit from complementary use of fishery-dependent data. Prior to 2003, the survey design was variable and there was greater spatial and temporal coverage of logbook data compared to post-2003. Integration of these data sets may be useful for future research given their differences in spatial and temporal range. This work provides a new perspective on the value of using fishery-dependent data to understand the spatial distribution of species in habitats that are under sampled in scientific surveys.
