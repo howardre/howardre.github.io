@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/howardre/ORnearshore_groundfish
+- icon: file-alt
+  icon_pack: far
+  name: Publication
+  url: https://doi.org/10.1016/j.fishres.2022.106553
 - icon: fa-solid fa-book
   icon_pack: fas
   name: Thesis
