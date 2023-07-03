@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Ocean Ecology and Biogeochemistry
     institution: Oregon State University 
-    year: 2025 Expected
+    year: 2024 Expected
   - course: M.S. in Marine Resource Management
     institution: Oregon State University
     year: 2020
