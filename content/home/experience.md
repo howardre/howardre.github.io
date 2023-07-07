@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Graduate Research Assistant (Cooperative Institute for Climate, Ocean, and Ecosystem Studies)"
+  title = "Graduate Research Assistant (Cooperative Institute for Marine Ecosystem and Resources Studies)"
   company = "Oregon State University"
-  company_url = "https://cicoes.uw.edu/"
+  company_url = "https://https://www.cimers.org/"
   location = "Corvallis, Oregon"
   date_start = "2022-07-01"
   date_end = ""
