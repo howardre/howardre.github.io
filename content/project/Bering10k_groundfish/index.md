@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/howardre/Bering_LarvalForecast
+- icon: file-alt
+  icon_pack: far
+  name: Publication
+  url: https://doi.org/10.1093/icesjms/fsad113
 url_code: ""
 url_pdf: ""
 url_slides: ""
