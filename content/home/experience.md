@@ -19,15 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Graduate Research Assistant (Cooperative Institute for Marine Ecosystem and Resources Studies)"
-  company = "Oregon State University"
-  company_url = "https://https://www.cimers.org/"
-  location = "Corvallis, Oregon"
-  date_start = "2022-07-01"
-  date_end = ""
-  description = """Developing updated species distribution models for snow crab (*Chionoecetes opilio*) in order to provide short term forecasts. Using machine learning methods to predict distributions of different sexes and sizes."""
-
-[[experience]]
   title = "Graduate Research Assistant (National Science Foundation)"
   company = "Oregon State University"
   company_url = "https://nsf.gov/"
@@ -35,6 +26,15 @@ date_format = "Jan 2006"
   date_start = "2021-10-01"
   date_end = ""
   description = """Using statistical modeling to project future distributions of multiple life stages of California Current fish species. Developing size-aggregated and size-structured species distribution models to evaluate trade-offs in different modeling approaches."""
+  
+[[experience]]
+  title = "Graduate Research Assistant (Cooperative Institute for Marine Ecosystem and Resources Studies)"
+  company = "Oregon State University"
+  company_url = "https://https://www.cimers.org/"
+  location = "Corvallis, Oregon"
+  date_start = "2022-07-01"
+  date_end = "2023-09-30"
+  description = """Developing updated species distribution models for snow crab (*Chionoecetes opilio*) in order to provide short term forecasts. Using machine learning methods to predict distributions of different sexes and sizes."""
 
 [[experience]]
   title = "Graduate Research Assistant (North Pacific Research Board)"
