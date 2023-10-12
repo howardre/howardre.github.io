@@ -86,48 +86,48 @@ date_format = "Jan 2006"
   maps using ArcGIS for conference poster and future publications. Archived historical biological samples. 
   Taught watershed curriculum to 3rd grade students and put on restoration event at a state park."""
   
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Marine Science Institute, University of California Santa Barbara"
-  company_url = "https://msi.ucsb.edu/"
-  location = "Santa Barbara, California"
-  date_start = "2014-07-01"
-  date_end = "2015-06-30"
-  description = """Tested the swimming duration of _Watersipora subtorquata_ to determine potential to 
-  spread as invasive species in the Santa Barbara Channel. Participated in SCUBA settlement plate surveys 
-  for presence of recently settled _W. subtorquata_. Conducted SCUBA surveys for eelgrass presence."""
-
-[[experience]]
-  title = "Aquarist and Educator"
-  company = "Research Experience and Education Facility (REEF)"
-  company_url = "https://msi.ucsb.edu/facilities-services/reef"
-  location = "Santa Barbara, California"
-  date_start = "2012-10-01"
-  date_end = "2015-06-30"
-  description = """Built settlement plate frames to study colonization of fouling organisms on different
-  antifouling paint treatments, as well as leaching of zinc and copper particles into the surrounding environment
-  from the paints. Tested different formulations of copper nanoparticle paint."""  
-  
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Earth Research Institute, University of California Santa Barbara (CEIN)"
-  company_url = "https://www.eri.ucsb.edu/"
-  location = "Santa Barbara, California"
-  date_start = "2014-06-01"
-  date_end = "2014-10-30"
-  description = """Built settlement plate frames to study colonization of fouling organisms on different
-  antifouling paint treatments, as well as leaching of zinc and copper particles into the surrounding environment
-  from the paints. Tested different formulations of copper nanoparticle paint."""
-  
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Ecology, Evolution, and Marine Biology Department, University of California Santa Barbara"
-  company_url = "https://labs.eemb.ucsb.edu/collins/peter/"
-  location = "Santa Barbara, California"
-  date_start = "2013-07-01"
-  date_end = "2014-11-30"
-  description = """Led and helped design research projects under guidance Dr. Peter Collins at UCSB.
-  Collected rockfish (_Sebastes_ spp.) and cabezon (_Scorpaenichthys marmoratus_) specimens by angling. Trained 
-  new interns and presented research findings. Used photomicroscopy to document the development of cabezon eggs"""
+# [[experience]]
+#   title = "Undergraduate Research Assistant"
+#   company = "Marine Science Institute, University of California Santa Barbara"
+#   company_url = "https://msi.ucsb.edu/"
+#   location = "Santa Barbara, California"
+#   date_start = "2014-07-01"
+#   date_end = "2015-06-30"
+#   description = """Tested the swimming duration of _Watersipora subtorquata_ to determine potential to 
+#   spread as invasive species in the Santa Barbara Channel. Participated in SCUBA settlement plate surveys 
+#   for presence of recently settled _W. subtorquata_. Conducted SCUBA surveys for eelgrass presence."""
+# 
+# [[experience]]
+#   title = "Aquarist and Educator"
+#   company = "Research Experience and Education Facility (REEF)"
+#   company_url = "https://msi.ucsb.edu/facilities-services/reef"
+#   location = "Santa Barbara, California"
+#   date_start = "2012-10-01"
+#   date_end = "2015-06-30"
+#   description = """Built settlement plate frames to study colonization of fouling organisms on different
+#   antifouling paint treatments, as well as leaching of zinc and copper particles into the surrounding environment
+#   from the paints. Tested different formulations of copper nanoparticle paint."""  
+#   
+# [[experience]]
+#   title = "Undergraduate Research Assistant"
+#   company = "Earth Research Institute, University of California Santa Barbara (CEIN)"
+#   company_url = "https://www.eri.ucsb.edu/"
+#   location = "Santa Barbara, California"
+#   date_start = "2014-06-01"
+#   date_end = "2014-10-30"
+#   description = """Built settlement plate frames to study colonization of fouling organisms on different
+#   antifouling paint treatments, as well as leaching of zinc and copper particles into the surrounding environment
+#   from the paints. Tested different formulations of copper nanoparticle paint."""
+#   
+# [[experience]]
+#   title = "Undergraduate Research Assistant"
+#   company = "Ecology, Evolution, and Marine Biology Department, University of California Santa Barbara"
+#   company_url = "https://labs.eemb.ucsb.edu/collins/peter/"
+#   location = "Santa Barbara, California"
+#   date_start = "2013-07-01"
+#   date_end = "2014-11-30"
+#   description = """Led and helped design research projects under guidance Dr. Peter Collins at UCSB.
+#   Collected rockfish (_Sebastes_ spp.) and cabezon (_Scorpaenichthys marmoratus_) specimens by angling. Trained 
+#   new interns and presented research findings. Used photomicroscopy to document the development of cabezon eggs"""
 
 +++
