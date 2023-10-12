@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include fisheries management, climate-biology relationships, and species distribution modeling.
 
 interests:
-- Fisheries Management
+- Fisheries management
 - Climate-biology relationships
 - Species distribution modeling
 - Forecasting
