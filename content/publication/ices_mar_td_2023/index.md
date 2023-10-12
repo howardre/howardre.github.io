@@ -22,7 +22,7 @@ doi: "https://doi.org/10.1093/icesjms/fsad113"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICE Journal of Marine Science, 80*(7)"
+publication: "*ICE Journal of Marine Science, 80*(7), 1881-1898"
 # publication_short: ""
 
 abstract: The Bering Sea is a productive large marine ecosystem that supports numerous commercial fisheries, while climate change is introducing rapid warming and freshening, especially in coastal water. The success of early life stages of marine fish can impact adult abundance levels; little is known about how behavioural or physiological plasticity in relation to environmental changes at one stage (e.g. spawning) may affect survival during subsequent stages (e.g. larvae), nor whether trade-offs exist that affect how a species demonstrates such plasticity. We utilized a statistical approach to examine phenological and geographical flexibility in spawning behaviour for four species of groundfish. In situ sea surface temperature (SST) and salinity (SSS) associations were also estimated by statistical models for six species of groundfish larvae. All species exhibited greater spawning geography flexibility than phenological flexibility during the egg stage. All larval stages exhibited specific temperature and salinity associations across unique combinations of SST and SSS. These species-specific patterns, in the context of potential climate change impacts, suggest that flexibility in spawning behaviour may not adequately compensate for the presence of unfavourable habitats at the larval stage.
