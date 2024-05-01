@@ -16,6 +16,8 @@ role: Ph.D. Candidate in Ocean, Earth and Atmospheric Sciences
 organizations:
 - name: Oregon State University
   url: "https://ceoas.oregonstate.edu/"
+- name: NOAA Fisheries
+  url: "https://www.fisheries.noaa.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fisheries management, climate-biology relationships, and species distribution modeling.

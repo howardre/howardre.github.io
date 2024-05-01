@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Fish Biologist"
+  company = "NOAA Fisheries"
+  company_url = "https://www.fisheries.noaa.gov/"
+  location = "Seattle, Washington"
+  date_start = "2024-04-22"
+  date_end = ""
+  description = """Fisheries scientist and field biologist for the Resource Assessment and Conservation Engineering Division in the Groundfish Assessment Program."""
+
+[[experience]]
   title = "Graduate Research Assistant (National Science Foundation)"
   company = "Oregon State University"
   company_url = "https://nsf.gov/"
