@@ -21,6 +21,10 @@ links:
   icon_pack: far
   name: Publication
   url: https://doi.org/10.1093/icesjms/fsad113
+- icon: file-alt
+  icon_pack: far
+  name: Publication
+  url: https://doi.org/10.1111/faf.12835
 url_code: ""
 url_pdf: ""
 url_slides: ""
