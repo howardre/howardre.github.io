@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://nsf.gov/"
   location = "Corvallis, Oregon"
   date_start = "2021-10-01"
-  date_end = "2024-14-06"
+  date_end = "2024-06-14"
   description = """Using statistical modeling to project future distributions of multiple life stages of California Current fish species. Developing size-aggregated and size-structured species distribution models to evaluate trade-offs in different modeling approaches."""
   
 [[experience]]
