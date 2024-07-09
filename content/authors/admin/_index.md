@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fish Biologist at NOAA Fisheries
+role: Research Fish Biologist
 
 # Organizations/Affiliations
 organizations:
