@@ -18,11 +18,10 @@ organizations:
   url: "https://www.fisheries.noaa.gov/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fisheries management, climate-biology relationships, and species distribution modeling.
+bio: My research interests include fisheries oceanography, fishery data collection, and species distribution modeling.
 
 interests:
-- Fisheries management
-- Climate-biology relationships
+- Fisheries oceanography
 - Species distribution modeling
 - Forecasting
 
