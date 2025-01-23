@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, project = false, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -93,11 +93,11 @@ phone = "916-770-7300"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "234 Burt Hall, Oregon State University", city = "Corvallis", region = "OR", postcode = "97331", country = "United States", country_code = "US"}
+address = {street = "7600 Sand Point Way NE", city = "Seattle", region = "WA", postcode = "98115", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "44.568219", longitude = "-123.280370"}
+coordinates = {latitude = "47.680840", longitude = "-122.249862"}
 
 # Directions for visitors to locate you.
 # directions = ""
@@ -112,7 +112,7 @@ coordinates = {latitude = "44.568219", longitude = "-123.280370"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Tweet Me", link = "https://twitter.com/rebeccaahow"},
+#  {icon = "twitter", icon_pack = "fab", name = "Tweet Me", link = "https://twitter.com/rebeccaahow"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "rebeccaahow"
+#twitter = "rebeccaahow"
 
 ############################
 ## Regional Settings
@@ -196,15 +196,15 @@ plugins_js  = []
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+#[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+#  post_view = 2
+#  publication_view = 2
+#  talk_view = 2
 
 ############################
 ## Comments
