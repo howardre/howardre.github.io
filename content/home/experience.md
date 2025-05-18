@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.fisheries.noaa.gov/"
   location = "Seattle, Washington"
   date_start = "2024-04-22"
-  date_end = ""
+  date_end = "2025-04-10"
   description = """Fisheries scientist and field biologist for the Resource Assessment and Conservation Engineering Division in the Groundfish Assessment Program."""
 
 [[experience]]
