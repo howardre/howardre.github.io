@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = false, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "howardre@oregonstate.edu"
+email = "rebecca.howard@noaa.gov"
 phone = "916-770-7300"
 
 # Address
