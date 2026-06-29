@@ -19,6 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Fish Biologist"
+  company = "NOAA Fisheries"
+  company_url = "https://www.fisheries.noaa.gov/"
+  location = "Seattle, Washington"
+  date_start = "2026-06-15"
+  date_end = "Present"
+  description = """Fisheries scientist and field biologist for the Resource Assessment and Conservation Engineering Division in the Groundfish Assessment Program."""
+
+[[experience]]
+  title = "Postdoctoral Scholar"
+  company = "Oregon State University"
+  company_url = "https://ceoas.oregonstate.edu/"
+  location = "Seattle, Washington"
+  date_start = "2025-08-18"
+  date_end = "2026-04-12"
+  description = """Developed statistical models for Pacific cod to eveluate potential size-specific population dynamics."""
+
+[[experience]]
   title = "Research Fish Biologist"
   company = "NOAA Fisheries"
   company_url = "https://www.fisheries.noaa.gov/"

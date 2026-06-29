@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Former Research Fish Biologist
+role: Fisheries Biologist
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am a former Research Fish Biologist at the NOAA Fisheries Alaska Fisheries Science Center in the [Resource Assessment and Conservation Engineering Division](https://www.fisheries.noaa.gov/about/resource-assessment-and-conservation-engineering-division) for the [Groundfish Assessment Program](https://www.fisheries.noaa.gov/contact/groundfish-assessment-program). I received my master's in [Marine Resource Management](https://ceoas.oregonstate.edu/mrm) and my Ph.D. in Ocean, Earth, and Atmospheric Sciences with a concentration in [Ocean Ecology and Biogeochemistry](https://ceoas.oregonstate.edu/ocean-ecology-and-biogeochemistry). I conducted my graduate research in the [Fisheries Oceanography Lab](https://fisheriesoceanographylab.ceoas.oregonstate.edu/). My current research focuses on developing species distribution models for different life stages of snow crab (*Chionoecetes opilio*) and evaluating the use of size-structured models for projecting the distributions of California Current fishes. Some of my research interests include using statistical modeling approaches to understand how populations of marine species respond to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study commercially important populations, and the connections between science and management.
+I am a Fisheries Biologist at the NOAA Fisheries Alaska Fisheries Science Center in the [Resource Assessment and Conservation Engineering Division](https://www.fisheries.noaa.gov/about/resource-assessment-and-conservation-engineering-division) for the [Groundfish Assessment Program](https://www.fisheries.noaa.gov/contact/groundfish-assessment-program). I received my master's in [Marine Resource Management](https://ceoas.oregonstate.edu/mrm) and my Ph.D. in Ocean, Earth, and Atmospheric Sciences with a concentration in [Ocean Ecology and Biogeochemistry](https://ceoas.oregonstate.edu/ocean-ecology-and-biogeochemistry). I conducted my graduate research in the [Fisheries Oceanography Lab](https://fisheriesoceanographylab.ceoas.oregonstate.edu/). My current research focuses on developing species distribution models for different life stages of snow crab (*Chionoecetes opilio*) and evaluating the use of size-structured models for projecting the distributions of California Current fishes. Some of my research interests include using statistical modeling approaches to understand how populations of marine species respond to changes in ocean conditions over time and space, investigating how different fishery data sources can be used to study commercially important populations, and the connections between science and management.
